@@ -1,0 +1,33 @@
+C:\Users\Cristi\source\repos\Hidden_Panel\Hidden_Panel\bin\Debug\Hidden_Panel.exe.config
+C:\Users\Cristi\source\repos\Hidden_Panel\Hidden_Panel\bin\Debug\Hidden_Panel.exe
+C:\Users\Cristi\source\repos\Hidden_Panel\Hidden_Panel\bin\Debug\Hidden_Panel.pdb
+C:\Users\Cristi\source\repos\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.csprojAssemblyReference.cache
+C:\Users\Cristi\source\repos\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.Form1.resources
+C:\Users\Cristi\source\repos\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.Properties.Resources.resources
+C:\Users\Cristi\source\repos\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.csproj.GenerateResource.cache
+C:\Users\Cristi\source\repos\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.csproj.CoreCompileInputs.cache
+C:\Users\Cristi\source\repos\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.exe
+C:\Users\Cristi\source\repos\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.pdb
+C:\Users\Cristi\source\repos\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.Form2.resources
+E:\Programe\Programe C#\Hidden_Panel\Hidden_Panel\bin\Debug\Hidden_Panel.exe.config
+E:\Programe\Programe C#\Hidden_Panel\Hidden_Panel\bin\Debug\Hidden_Panel.exe
+E:\Programe\Programe C#\Hidden_Panel\Hidden_Panel\bin\Debug\Hidden_Panel.pdb
+E:\Programe\Programe C#\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.csprojAssemblyReference.cache
+E:\Programe\Programe C#\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.Form1.resources
+E:\Programe\Programe C#\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.Form2.resources
+E:\Programe\Programe C#\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.Properties.Resources.resources
+E:\Programe\Programe C#\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.csproj.GenerateResource.cache
+E:\Programe\Programe C#\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.csproj.CoreCompileInputs.cache
+E:\Programe\Programe C#\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.exe
+E:\Programe\Programe C#\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.pdb
+E:\Programe\Programe C#\HiddenPanel\Hidden_Panel\Hidden_Panel\bin\Debug\Hidden_Panel.exe.config
+E:\Programe\Programe C#\HiddenPanel\Hidden_Panel\Hidden_Panel\bin\Debug\Hidden_Panel.exe
+E:\Programe\Programe C#\HiddenPanel\Hidden_Panel\Hidden_Panel\bin\Debug\Hidden_Panel.pdb
+E:\Programe\Programe C#\HiddenPanel\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.csprojAssemblyReference.cache
+E:\Programe\Programe C#\HiddenPanel\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.Form1.resources
+E:\Programe\Programe C#\HiddenPanel\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.Form2.resources
+E:\Programe\Programe C#\HiddenPanel\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.Properties.Resources.resources
+E:\Programe\Programe C#\HiddenPanel\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.csproj.GenerateResource.cache
+E:\Programe\Programe C#\HiddenPanel\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.csproj.CoreCompileInputs.cache
+E:\Programe\Programe C#\HiddenPanel\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.exe
+E:\Programe\Programe C#\HiddenPanel\Hidden_Panel\Hidden_Panel\obj\Debug\Hidden_Panel.pdb

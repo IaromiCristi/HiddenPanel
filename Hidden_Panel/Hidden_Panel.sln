@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hidden_Panel", "Hidden_Panel\Hidden_Panel.csproj", "{5EFC8D3D-6009-4E5B-B8DB-81EF5FCBA952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EFC8D3D-6009-4E5B-B8DB-81EF5FCBA952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFC8D3D-6009-4E5B-B8DB-81EF5FCBA952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFC8D3D-6009-4E5B-B8DB-81EF5FCBA952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFC8D3D-6009-4E5B-B8DB-81EF5FCBA952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EA52941-9084-418B-980B-0FCB5448B9CA}
+	EndGlobalSection
+EndGlobal
